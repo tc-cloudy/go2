@@ -8,8 +8,7 @@
 
 dockers:
   - image_templates:
-    # - go2
-    - tyco
+    - gochef
     dockerfile: Dockerfile
 
 before:
